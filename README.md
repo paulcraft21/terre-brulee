@@ -12,6 +12,8 @@ bâtiments à leur emplacement et à leur hauteur réels, routes, ponts, rivièr
 
 ## Images
 
+![Montigny en jeu](images/montigny-jeu.png)
+
 | | |
 |---|---|
 | ![Église de Montigny](images/eglise.png) | ![Le village vu d'en haut](images/village.png) |
